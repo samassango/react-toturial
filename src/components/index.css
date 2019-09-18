@@ -1,0 +1,25 @@
+input[type="text"] {
+  width: 80%;
+  padding: 15px 22px;
+  margin: 10px 5px;
+  box-sizing: border-box;
+}
+button {
+  width: 80%;
+  padding: 5px 10px;
+  margin: 5px 5px;
+  box-sizing: border-box;
+  background-color: #9dbdae;
+  color: black;
+  font: bold 16px/32px Georgia, serif;
+}
+.App-header {
+  background-color: #9dbdae;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
